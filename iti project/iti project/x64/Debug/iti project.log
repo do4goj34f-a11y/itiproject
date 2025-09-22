@@ -1,0 +1,8 @@
+﻿  iti project.cpp
+C:\Users\Admin\Desktop\Final project iti\iti project\iti project.cpp(33,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Desktop\Final project iti\iti project\iti project.cpp(63,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1256)
+C:\Users\Admin\Desktop\Final project iti\iti project\iti project.cpp(627,13): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1256)
+C:\Users\Admin\Desktop\Final project iti\iti project\iti project.cpp(628,13): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1256)
+C:\Users\Admin\Desktop\Final project iti\iti project\iti project.cpp(629,13): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1256)
+C:\Users\Admin\Desktop\Final project iti\iti project\iti project.cpp(630,13): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1256)
+  iti project.vcxproj -> C:\Users\Admin\Desktop\Final project iti\iti project\x64\Debug\iti project.exe
